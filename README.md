@@ -1,7 +1,7 @@
 # pwn_fan_control
 
 Very simple setup to control my EC fan.  
-The EPS8266 uses PWN to send out 0-10V to the fan's input.  
+The EPS8266 uses PWM to send out 0-10V to the fan's input.  
 It first connects to a wifi network and the uses MQTT for input/output.  
   
 Components:  
