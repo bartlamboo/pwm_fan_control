@@ -11,3 +11,5 @@ https://www.amazon.com/LM2577-Booster-Module-Supply-Adjustable/dp/B07LHCT4MB
   
 It does seem that the 0-10V converter only outputs 9.34V so it's not exactly ideal.  
 But for my type of application it doesn't really matter that much.  
+
+![alt text](https://github.com/BartLamboo/pwn_fan_control/blob/main/overview.png?raw=true)
